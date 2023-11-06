@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIWikipediaArticles", "APIWikipediaArticles\APIWikipediaArticles.csproj", "{CBF5E98A-DF0D-46D4-A2CC-42D1624097B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBF5E98A-DF0D-46D4-A2CC-42D1624097B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF5E98A-DF0D-46D4-A2CC-42D1624097B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF5E98A-DF0D-46D4-A2CC-42D1624097B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF5E98A-DF0D-46D4-A2CC-42D1624097B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
